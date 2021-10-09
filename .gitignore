@@ -1,0 +1,12 @@
+*.gem
+coverage/*
+Gemfile.lock
+*~
+.bundle
+.rvmrc
+log/*
+pkg/*
+.DS_Store
+.env
+test/dummy/tmp/*
+spec/dummy/log/*.log
